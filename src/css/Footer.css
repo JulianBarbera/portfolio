@@ -1,0 +1,26 @@
+#Footer {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-color: #09050C;
+}
+
+#footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#footer-quote p {
+    margin: 0;
+    color: lightgray;
+    max-width: 60%;
+    word-wrap: break-word;
+}
+
+#footer-icons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1em; /* Optional: Add space between icons */
+    align-items: center;
+}
+

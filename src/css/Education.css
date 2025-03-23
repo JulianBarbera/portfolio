@@ -1,0 +1,20 @@
+#educationHeader {
+    font-size: 60px;
+}
+
+.educationCard p {
+    color: white;
+}
+
+.educationCard span {
+    color: white;
+}
+
+
+.educationCard ul {
+    color: lightgray;
+}
+
+.eduSummary {
+    color: lightgray !important;
+}

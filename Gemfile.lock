@@ -207,4 +207,4 @@ DEPENDENCIES
   wdm (~> 0.2.0)
 
 BUNDLED WITH
-   2.7.1
+   2.5.10

@@ -47,7 +47,7 @@ pageviews:
   provider: goatcounter
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/images/irl/avatar.png
+avatar: assets/img/irl/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true

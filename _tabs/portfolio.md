@@ -73,9 +73,10 @@ order: 2
 
 ## Resume
 
-<object data="/assets/documents/resume.pdf" type="application/pdf" width="100%"
-height="1150" title="Resume"><p>Your browser does not support PDFs :(</p>
-
-</object>
+<div style="width: 100%; max-width: 850px; margin: auto; aspect-ratio: 8.5 / 12;">
+  <object data="/assets/documents/resume.pdf" type="application/pdf" style="width: 100%; height: 100%; border: none;" title="Resume">
+    <p>Your browser does not support PDFs :(</p>
+  </object>
+</div>
 
 [Download a copy for yourself!](/assets/documents/resume.pdf")
